@@ -52,37 +52,39 @@
 		<meta property="term" refines="#subject-7">sh2008117760</meta>
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A woman in a unhappy marriage to a disabled veteran finds erotic love with the local gameskeeper, while contemplating her position within the class society of early 20th century England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;One of the most controversial novels of the 21st century, &lt;i&gt;Lady Chatterley's Lover&lt;/i&gt; follows the story of Lady Constance Chatterley, unhappily married to disabled World War I veteran and coal tycoon Sir Clifford Chatterley, as she takes as a lover the gamekeeper of her estate, Oliver Mellors, a working class man of the earth. Constance fights with the guilt of her infidelity with her husband but realizes that the marriage is over and seeks more out of her life. Oliver, although somewhat educated, and a veteran himself, enjoys the company of the lady but worries about his position in society.&lt;/p&gt;
+			&lt;p&gt;Like the previous &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence"&gt;D. H. Lawrence&lt;/a&gt; novels, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/d-h-lawrence/women-in-love"&gt;Women in Love&lt;/a&gt;&lt;/i&gt; and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/d-h-lawrence/the-rainbow"&gt;The Rainbow&lt;/a&gt;&lt;/i&gt;, this novel describes in detail the sexual encounters between the two lovers and uses language to do it that was shocking at the time of the book's release. It was banned in many countries and was only published through underground means for many years. It was not commercially published until 1959, after being the subject of a Supreme Court case about freedom of speech and the idea of "redeeming social or literary value" trumping any notions of perceived obscenity in works of art. As with other Lawrence novels, there is also commentary about the dying coal industry and the societal class structure of England, which was greatly obscured in the media by the sexual content of the book.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73144</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/embed/ladychatterleysl0000dhla_f8m1</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lady_Chatterley%E2%80%99s_Lover</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/d-h-lawrence_lady-chatterleys-lover</meta>
 		<dc:creator id="author">D. H. Lawrence</dc:creator>
 		<meta property="file-as" refines="#author">Lawrence, D. H.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">David Herbert Lawrence</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/D._H._Lawrence</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/rwo/agents/n79018450</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Alice Pike Barney</dc:contributor>
+		<meta property="file-as" refines="#artist">Barney, Alice Pike</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alice_Pike_Barney</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/rwo/agents/n84199487</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Bob R. Kenyon</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Kenyon, Bob R.</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.bobrk.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
