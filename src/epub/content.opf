@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/d-h-lawrence/lady-chatterleys-lover</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-12-10T17:22:53Z</dc:date>
+		<meta property="dcterms:modified">2024-12-10T17:22:53Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -53,16 +53,17 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A woman in a unhappy marriage to a disabled veteran finds erotic love with the local gameskeeper, while contemplating her position within the class society of early 20th century England.</dc:description>
+		<dc:description id="description">A woman in an unhappy marriage finds love with the local gameskeeper, while she contemplates her position in the society of early 20th century England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;One of the most controversial novels of the twentieth century, &lt;i&gt;Lady Chatterley’s Lover&lt;/i&gt; follows the story of Lady Constance Chatterley, unhappily married to disabled World War I veteran and coal tycoon Sir Clifford Chatterley, as she takes as a lover the gamekeeper of her estate, Oliver Mellors, a working class man of the earth. Constance fights with the guilt of her infidelity with her husband but realizes that the marriage is over and seeks more out of her life. Oliver, although somewhat educated, and a veteran himself, enjoys the company of the lady but worries about his position in society.&lt;/p&gt;
-			&lt;p&gt;Like the previous &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence"&gt;D. H. Lawrence&lt;/a&gt; novels, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/d-h-lawrence/women-in-love"&gt;Women in Love&lt;/a&gt;&lt;/i&gt; and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/d-h-lawrence/the-rainbow"&gt;The Rainbow&lt;/a&gt;&lt;/i&gt;, this novel describes in detail the sexual encounters between the two lovers and uses language to do it that was shocking at the time of the book’s release. It was banned in many countries and was only published through underground means for many years. It was not commercially published until 1959, after being the subject of a Supreme Court case about freedom of speech and the idea of “redeeming social or literary value” trumping any notions of perceived obscenity in works of art. As with other Lawrence novels, there is also commentary about the dying coal industry and the societal class structure of England, which was greatly obscured in the media by the sexual content of the book.&lt;/p&gt;
+			&lt;p&gt;One of the most controversial novels of the twentieth century, &lt;i&gt;Lady Chatterley’s Lover&lt;/i&gt; follows the story of Lady Constance Chatterley, unhappily married to disabled World War I veteran and coal tycoon Sir Clifford Chatterley, as she takes as a lover the gamekeeper of her estate, Oliver Mellors, a working class man of the earth. Constance struggles with the guilt of her infidelity, but realizes that her marriage is over and wants to get more out of her life. Oliver, a veteran himself with some education, enjoys her company but worries about his own position in society.&lt;/p&gt;
+			&lt;p&gt;Like &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence"&gt;D. H. Lawrence’s&lt;/a&gt; earlier novels &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/d-h-lawrence/women-in-love"&gt;Women in Love&lt;/a&gt;&lt;/i&gt; and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/d-h-lawrence/the-rainbow"&gt;The Rainbow&lt;/a&gt;&lt;/i&gt;, this novel describes in detail the sexual encounters between the two lovers, doing so using language that was shocking at the time. It was subsequently banned in many countries and for years was only available through underground means. It was not until 1960 that the full, unexpurgated edition was finally able to be published in its native United Kingdom, after being the subject of a court case about freedom of speech and the idea of redeeming social or literary value trumping any notions of obscenity in works of art. The novel’s victory at trial is seen by many as the moment Britain began changing into a permissive society.&lt;/p&gt;
+			&lt;p&gt;As with other Lawrence novels, the novel features commentary on industrialization, the dying coal industry, and the societal class structure of England, but these themes are to this day still largely obscured by the book’s sexual content and the surrounding scandal.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73144</dc:source>
 		<dc:source>https://archive.org/embed/ladychatterleysl0000dhla_f8m1</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">120447</meta>
+		<meta property="se:reading-ease.flesch">84.68</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lady_Chatterley%E2%80%99s_Lover</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/d-h-lawrence_lady-chatterleys-lover</meta>
 		<dc:creator id="author">D. H. Lawrence</dc:creator>
@@ -91,6 +92,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
