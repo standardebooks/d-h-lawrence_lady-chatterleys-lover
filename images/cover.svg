@@ -13,8 +13,8 @@
 			text-anchor: middle;
 		}
 
-		.title-small{
-			font-size: 70.17543793px;
+		.title{
+			font-size: 93.56725311px;
 		}
 
 		.author{
@@ -23,7 +23,7 @@
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title-small" x="700" y="1775">LADY</text>
-	<text class="title-small" x="700" y="1855">CHATTERLEY’S LOVER</text>
-	<text class="author" x="700" y="1955">D. H. LAWRENCE</text>
+	<text class="title" x="700" y="1775">LADY CHATTERLEY’S</text>
+	<text class="title" x="700" y="1875">LOVER</text>
+	<text class="author" x="700" y="1975">D. H. LAWRENCE</text>
 </svg>
