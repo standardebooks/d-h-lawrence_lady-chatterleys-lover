@@ -70,7 +70,7 @@
 		<meta property="schema:wordCount">117630</meta>
 		<meta property="schema:educationalLevel">84.68</meta>
 		<link href="https://en.wikipedia.org/wiki/Lady_Chatterley%E2%80%99s_Lover" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/d-h-lawrence_lady-chatterleys-lover" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">D. H. Lawrence</dc:creator>
