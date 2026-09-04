@@ -30,14 +30,14 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Lady Chatterley’s Lover</dc:title>
 		<meta property="file-as" refines="#title">Lady Chatterley’s Lover</meta>
-		<dc:subject id="subject-1">Adultery -- Fiction</dc:subject>
-		<dc:subject id="subject-2">England -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Adultery--Fiction</dc:subject>
+		<dc:subject id="subject-2">England--Fiction</dc:subject>
 		<dc:subject id="subject-3">Love stories</dc:subject>
-		<dc:subject id="subject-4">Married women -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Man-woman relationships -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Married women--Fiction</dc:subject>
+		<dc:subject id="subject-5">Man-woman relationships--Fiction</dc:subject>
 		<dc:subject id="subject-6">Erotic stories</dc:subject>
-		<dc:subject id="subject-7">Gamekeepers -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Disabled veterans -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Gamekeepers--Fiction</dc:subject>
+		<dc:subject id="subject-8">Disabled veterans--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100578</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
